@@ -1,0 +1,13 @@
+.fondo1{
+    position: fixed;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+body{
+    background: url(/img/pikafondo.jpg);
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
